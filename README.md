@@ -23,3 +23,6 @@
 ## 3、定义模型
 ## 4、定义训练方法
 ## 5、验证模型
+
+
+### 项目完全参考 https://github.com/yunjey/pytorch-tutorial.git
