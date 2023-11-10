@@ -1,6 +1,6 @@
 # 项目思路
 
-![%E5%9B%BE%E7%89%87.png](%E5%9B%BE%E7%89%87.png)
+![image]([%E5%9B%BE%E7%89%87.png](https://github.com/Jangge/Image-Description/blob/main/%25E5%259B%25BE%25E7%2589%2587.png))
 
 ## 项目目标：
 - ### 给定一个图像输出针对这个图像的描述
